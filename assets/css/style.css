@@ -327,3 +327,7 @@ margin-bottom: 50px;
     content: '';
     background: #fafafa;
 }
+
+.history-items {
+    margin-bottom: 30px;
+}
